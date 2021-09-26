@@ -1,0 +1,9 @@
+*
+!/**/
+!*.*
+
+*.o 
+*.mod
+*.pvsm
+!.vscode
+!*/makefile
